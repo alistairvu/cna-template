@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "jotai": "^0.14.5",
     "next": "10.0.7",
     "react": "17.0.1",
